@@ -1,25 +1,21 @@
-
 {
-  "name": "Dayform — Personal Study Space",
+  "name": "Dayform — Study Planner",
   "short_name": "Dayform",
-  "description": "个人学习空间：任务、课程、目标与学习记录",
-  "start_url": "/Dayform/",
-  "scope": "/Dayform/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#f7f7f7",
-  "theme_color": "#fafafa",
+  "background_color": "#f8f8f8",
+  "theme_color": "#171717",
   "icons": [
     {
       "src": "./icons/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "./icons/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
